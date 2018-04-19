@@ -1,4 +1,6 @@
 # Clementine Music Library Access for Node.js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Polarisation/clementine-music-library.svg)](https://greenkeeper.io/)
 Load track data from your Clementine music library with Node.js
 
 [![Build Status](https://travis-ci.org/Polarisation/clementine-music-library.svg?branch=master)](https://travis-ci.org/Polarisation/iclementine-music-library)
